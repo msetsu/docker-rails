@@ -1,4 +1,4 @@
-FROM ruby:2.3.1-alpine
+FROM ruby:2.4.4-alpine
 
 LABEL maintainer="Minsetsu, Inc. <tech@msetsu.com>"
 
